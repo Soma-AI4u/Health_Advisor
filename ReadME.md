@@ -1,4 +1,4 @@
-**Health_Advisor is a project aimed at providing digital health and healthcare solutions to benefit both individuals and health organizations. The objective is to enhance the care experience and improve health outcomes through advanced analytics. The project utilizes various tools such as Random Forest, ResNet, Logistic Regression, and Streamlit to achieve its goals.**
+**Health_Advisor is a project aimed at providing digital health and healthcare solutions to benefit both individuals and health organizations. The objective is to enhance the care experience and improve health outcomes through advanced analytics. The project utilizes various tools such as Random Forest, ResNet, Logistic Regression, and Streamlit to achieve its goals.**  
 
 The project offers several key features that address different aspects of health and medical diagnosis:
 
